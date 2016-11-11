@@ -3,7 +3,7 @@
        "apps": [ ], 
        "details": [
            {
-               "appID": "72H8ZPD4X8.com.behindtechlines.UniversalLinksDemo",
+               "appID": "V9WTTPBFK9.co.FutureThoughts.FTCalendar",
                "paths": [ "/authors","/authors/*/books", "/authors/*" ]
            }
        ]
