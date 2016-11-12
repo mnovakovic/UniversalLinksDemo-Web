@@ -1,11 +1,6 @@
-{
-   "applinks": {
-       "apps": [ ], 
-       "details": [
-           {
-               "appID": "V9WTTPBFK9.co.FutureThoughts.FTCalendar",
-               "paths": [ "/authors","/authors/*/books", "/authors/*" ]
-           }
-       ]
-    }
-}
+[{
+    "packageFamilyName": "Facebook.SampleApp_8xx8rvfyw5nnt",
+    "paths": [ "*" ]
+}]
+
+
