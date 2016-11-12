@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   get '/apple-app-site-association' => 'static#association'
+  get '/windows-app-web-link' => 'static#association'
 
   resources :authors do 
     member do 
